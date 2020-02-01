@@ -1,0 +1,18 @@
+html{
+    background-color: darkviolet;
+}
+body{
+    background-color: firebrick;
+    margin: 50px
+    postion: relative;
+}
+img{
+    width: 200px;
+    float: left;
+    margin: 10px;
+
+  
+}
+.NavTitle {
+
+}
